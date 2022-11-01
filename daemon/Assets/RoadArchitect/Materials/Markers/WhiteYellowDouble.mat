@@ -10,6 +10,7 @@ Material:
   m_Name: WhiteYellowDouble
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
+  - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   - _SPECULAR_SETUP
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -168,7 +169,7 @@ Material:
     - _ShadowIntensity: 0.462
     - _Shininess: 1
     - _Smoothness: 0
-    - _SmoothnessTextureChannel: 0
+    - _SmoothnessTextureChannel: 1
     - _Sparkle: 0.01
     - _SpecularHighlights: 1
     - _SquashAmount: 1

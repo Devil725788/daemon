@@ -4694,6 +4694,34 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: ShapeModule.type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: ShapeModule.arc.mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.031149892
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.6641506
+      objectReference: {fileID: 0}
+    - target: {fileID: 198348215081131160, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.9433962
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
 --- !u!43 &1825283564
